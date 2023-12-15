@@ -9,6 +9,10 @@
 * **Name(s)**: Andy Chung, Samuel An
 * **Email(s)**: anchung@westmont.edu, san@westmont.edu
 
+## License
+
+Distributed under the MIT license. See 'LICENSE' for more information.
+
 ## Overview
 
 * I chose to use the dataset 'Rainfall Data from 1901 to 2017 for India' from Kaggle. The dataset does not list an author, but it was updated by Sai Saran.
