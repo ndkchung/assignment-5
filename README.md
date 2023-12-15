@@ -3,6 +3,8 @@
 
 **CS 128 Information Retrieval and Big Data**
 
+## [Presentation Link](https://docs.google.com/presentation/d/12JK8ub-0zgyWfia7YQZH2dJunZNm5VSH87ZMismPTdk/edit#slide=id.g2a730db9de0_0_11)
+
 ## Author Information
 * **Name(s)**: Andy Chung, Samuel An
 * **Email(s)**: anchung@westmont.edu, san@westmont.edu
